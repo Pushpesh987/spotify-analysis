@@ -197,19 +197,6 @@ The notebook includes the following visualizations:
 - Python 3.8+
 - Jupyter Notebook or JupyterLab
 
-### Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/<your-username>/spotify-data-analysis.git
-cd spotify-data-analysis
-
-# Install dependencies
-pip install pandas numpy matplotlib seaborn plotly
-
-# Launch the notebook
-jupyter notebook spotify_data_analysis.ipynb
-```
 
 ### Dataset Setup
 
